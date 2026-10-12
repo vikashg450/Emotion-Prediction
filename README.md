@@ -2,6 +2,10 @@
 
 A lightweight web application for detecting emotional intent in text using a trained BiGRU neural network. The app exposes a FastAPI backend and a browser-based frontend that lets users enter a sentence and instantly see the predicted emotion along with the confidence score.
 
+## Live demo
+
+Try the deployed application: [Emotion Prediction](https://emotion-prediction-fyzr.onrender.com/)
+
 ## Project overview
 
 This project classifies text into six emotional categories:
